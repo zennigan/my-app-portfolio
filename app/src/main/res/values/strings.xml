@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project Zero</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify">SPOTIFY STREAMER</string>
+    <string name="score">SCORE APP</string>
+    <string name="library">LIBRARY APP</string>
+    <string name="build">BUILD IT BIGGER</string>
+    <string name="bacon">BACON READER</string>
+    <string name="own">CAPSTONE: MY OWN APP</string>
+    <string name="project_zero">My Nano Degree Apps!</string>
+</resources>
